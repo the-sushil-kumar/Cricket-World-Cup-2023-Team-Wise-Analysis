@@ -80,4 +80,4 @@ The analysis highlights significant performance trends and differences between t
        Their lower 50.00% first innings win rate compared to Australia and India is a notable drop-off.
 
 🖼️ Dashboard
-?[]()
+![](https://github.com/the-sushil-kumar/Cricket-World-Cup-2023-Team-Wise-Analysis/blob/main/cwc2023%20.jpg)
